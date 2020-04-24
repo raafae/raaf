@@ -1,0 +1,53 @@
+html {
+    background: #ffffff;
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    background: #fff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    max-width: 900px;
+    padding: 0em 0em 0em;
+    margin-top: -30px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #222;
+    font-weight: 600;
+    line-height: 3.2em;
+    margin-bottom: -1em;
+}
+
+h2 {
+    margin-top: 0em;
+}
+
+a {
+    color: #0000EE;
+}
+
+a:visited 
+{
+    text-decoration: none; 
+    decoration: none; 
+}
+a:hover{
+    color:goldenrod;
+}
+b, strong {
+    font-weight: 600;
+}
+
+samp {
+    display: none;
+}
+
+img {
+    background: transparent;
+    float: left;
+    display: block;
+    margin: 1em auto;
+    max-width: 120%;
+}
